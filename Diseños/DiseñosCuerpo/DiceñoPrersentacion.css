@@ -1,0 +1,37 @@
+.SeccionRoja{
+    margin: 10px;
+}
+.ContenedorInformacion{
+    padding: 40px;
+    width: 55%;
+    border: 0%;
+    position: relative;
+    top: -50px;
+    
+}
+.ContenedorInformacion .InformacionBlock{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.ContenedorInformacion .InformacionBlock h1{
+    font-size: 35px;
+
+}
+.ContenedorInformacion .InformacionBlock p{
+    font-size: 20px;
+    
+}
+.SeccionRoja .ImagenChida{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border: 10px;
+    border-radius: 0px 0px 22px 22px;
+    position: absolute;
+    top: 82px; left: 1300px;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}

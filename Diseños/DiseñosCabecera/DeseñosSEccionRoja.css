@@ -1,0 +1,15 @@
+.SeccionRoja{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    box-sizing: inherit;
+    display: block;
+    padding: 80px 0px;
+    background-color: #d37180;
+    color: #394440;
+    height: 150px;
+}
